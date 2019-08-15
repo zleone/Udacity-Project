@@ -22,7 +22,7 @@ def get_filters():
     while True:
         city = input("\nPlease input one of the following cities you would like to learn about: chicago, new york city, or washington.\n").lower()
         if city not in ('chicago', 'new york city', 'washington'):
-            print("There is no information available for any cities other than: chicago, new york city, or washington. Please select one of these three cities.")
+            print("No information is available for any cities other than: chicago, new york city, or washington. Please select one of these three cities.")
             continue
         else:
             break
