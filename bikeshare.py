@@ -199,7 +199,7 @@ def user_stats(df):
     print('-'*40)
 
 
-    display_data = input('\nDo you want to see the raw data? Enter yes or no.\n').lower()
+    display_data = input('\nWould you like to see the raw data? Please enter yes or no.\n').lower()
     if display_data == ('yes'):
         index = 0
         while True:
