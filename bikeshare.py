@@ -208,7 +208,7 @@ def user_stats(df):
 
             display_more_data = input('\nDo you want to see 5 more lines of raw data? Enter yes or no.\n').lower()
             if display_more_data != ('yes'):
-                print('\nThank you for exploring the data!')
+                print('\nThank you for exploring US bikeshare data!')
                 break
 
 def main():
