@@ -5,7 +5,7 @@ August 13, 2019
 GitHub Project
 
 ### Description
-This project has allowed me to learn about the various capabilities of GitHub. Specifically, I have uploaded documents from my local repository to GitHub. The python code I used for the bike-share data project has been added as well.
+This project has allowed me to learn about the various capabilities of GitHub. Specifically, I have uploaded documents from my local repository to GitHub. The python code I used for the bikeshare data project has been added as well.
 
 ### Files used
 ud123-git-keyterms.pdf
